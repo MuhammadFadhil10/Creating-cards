@@ -35,6 +35,9 @@ body {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
 		'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.summary p {
+	text-align: justify;
+}
 .summary p,
 .card-detail h5 {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -103,7 +106,7 @@ body {
 	height: 250px;
 	background-color: #f7f4f4;
 	border-radius: 5px;
-	box-shadow: 10px 10px 10px #00000052;
+	box-shadow: 10px 10px 10px #00000031;
 }
 
 .image-card img {
